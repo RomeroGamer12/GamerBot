@@ -1,0 +1,26 @@
+{
+  "name": "GamerBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "keepalive": "^3.0.0",
+    "ping-monitor": "^0.6.2"
+  },
+  "devDependencies": {
+    "node": "^16.13.1"
+  },
+  "description": ""
+}
+"scripts": {
+    "start": "node ."
+ }
